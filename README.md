@@ -6,3 +6,6 @@ This system enables the user to search the possible candidates for a company bas
 .py file to run with UI.
 
 streamlit run EmployeeRecommendationEngine.py
+
+![alt text](https://github.com/sandeshshrestha45/Employee-Recommendation-Engine/blob/master/screenshot.JPG?raw=true)
+
